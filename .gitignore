@@ -1,0 +1,6 @@
+# игнорируем все файлы
+*
+# отслеживаем readme.md
+!readme.md
+# отслеживаем .gitignore
+!.gitignore
